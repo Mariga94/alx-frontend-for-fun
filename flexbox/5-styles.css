@@ -449,7 +449,7 @@ ul.row {
   background: transparent;
 }
 
-.header-logo {
+/* .header-logo {
   position: var(--header-logo-position);
 }
 
@@ -458,7 +458,7 @@ ul.row {
   position: var(--header-logo-link-position);
   top: var(--header-logo-link-top);
   left: var(--header-logo-link-left);
-}
+} */
 
 .header-container {
   display: flex;
