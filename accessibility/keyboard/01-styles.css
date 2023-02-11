@@ -655,11 +655,7 @@
     z-index: 1;
     transition: var(--transition-duration) var(--transition-cubic-bezier);
   }
-  
-  /* .card-work:hover .card-inner {
-    background-color: rgba(0, 0, 0, 0.7);
-  } */
-  
+    
   .card-work .card-title {
     text-align: center;
     margin: 0;
@@ -682,15 +678,7 @@
     bottom: 0;
     content: '';
   }
-  
-  /* .card-work:hover .card-title {
-    opacity: 1;
-  } */
-
-  .card-work .card-title a {
-    opacity: 0;
-  }
-  
+    
   @media only screen and (max-width: 767px) {
   
     .card-work .card-inner {
