@@ -1,0 +1,15 @@
+/* Assign no margin or padding in body tags */
+
+$no-margin: 0;
+$no-padding: 0;
+$margin-p: 10px;
+body {
+  margin: $no-margin;
+  padding: $no-padding;
+}
+
+body {
+  p {
+    margin: $margin-p;
+  }
+}
