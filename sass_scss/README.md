@@ -33,4 +33,4 @@ footer {
 ## Tasks
 | Task | Description |
 | ---- | ----------- |
-| [https://github.com/Mariga94/alx-frontend-for-fun/blob/main/sass_scss/0-debug_log.scss](0-debug_log.scss) | print `Hello world` in the debug output |
+| [0-debug_log.scss](https://github.com/Mariga94/alx-frontend-for-fun/blob/main/sass_scss/0-debug_log.scss) | print `Hello world` in the debug output |
