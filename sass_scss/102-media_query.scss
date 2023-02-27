@@ -1,0 +1,29 @@
+/* Media query */
+h1 {
+  font-size: 20px;
+}
+
+$bp-tablet: 960px;
+$bp-max: 640px;
+$bp-mobile: 320px;
+
+@media screen and (max-width: $bp-tablet) {
+  h1 {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: $bp-max) {
+  h1 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: $bp-mobile) {
+  h1 {
+    font-size: 14px;
+  }
+  h1.small {
+    color: #1d1d1d;
+  }
+}
