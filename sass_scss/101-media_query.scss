@@ -1,0 +1,11 @@
+/* Media query */
+h1 {
+  font-size: 20px;
+}
+
+$breakpoint-mobile: 320px;
+@media screen and (max-width: $breakpoint-mobile) {
+  h1 {
+    font-size: 14px;
+  }
+}
