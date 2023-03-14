@@ -1,8 +1,9 @@
 /* Assign nested hover */
-
+$color-0: #ff0000;
+$color-1: #00ff00;
 button {
-  color: #FF0000;
+  color: $color-0;
   &:hover {
-    color: #00ff00;
+    color: $color-1;
   }
 }
